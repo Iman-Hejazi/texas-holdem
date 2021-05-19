@@ -16,6 +16,7 @@ def preparing_community(cards):
         print(f'The Community cards are not valid. (e.g. Acceptable Format: "KS AD 3H 7C TD" )')
         return False
     for card in cards:
+        card=card.upper()
         if not check_card(card):
             reset_CARDS()
             return False
@@ -32,7 +33,8 @@ def preparing_player_hand(community,hands):
     if len(hands) != 3:
         print(f'The player"s hand is not valid. (e.g. Acceptable Format: "Sam AC KH" )')
         return False
-    for card in hands[1:]:   
+    for card in hands[1:]:  
+        card=card.upper() 
         if not check_card(card):
             delete_inserted_card_to_CARDS( hands[1])
             return False
@@ -57,7 +59,7 @@ def check_card(card):
     if len(card)!=2:
         print(f'This Card {card} is not valid. (e.g. Acceptable Format: QC )')
         return False
-    card=card.upper()
+    
     if not card[0] in CONST.RANKS:
         print(f'The rank/face of this card {card} is not valid. (e.g. Acceptable Formats: "2-3-4-5-6-7-8-9-T-J-Q-K-A")')
         return False
