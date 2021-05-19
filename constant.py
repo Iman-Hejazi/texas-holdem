@@ -17,7 +17,7 @@ class Constant():
     }
     
     #  The constants used for mapping the selected 5 cards to a universal score
-    #  so each card's rank will divide by corrosponding constant
+    #  so each card's rank will divide by corresponding   constant
     RATIOS=[1,10,100,1000,10000]
    
     # Base Score for each hand value
