@@ -1,6 +1,25 @@
 # Identify and Rank Texas Hold'em Poker Hands
+GOOD NIGHT
+# CHANGES
+# CHANGE2
+
+
+Hello there! I’m glad you could join us. Although I’m not sure who you are, you’re presumably here
+because you heard about the quantum supremacy experiment recently published by a collaboration
+from Google, NASA Ames, UC Santa Barbara, and a host of other teams from around the world
+[12]. You may have seen the articles declaring a “quantum supremacy breakthrough,” and had
+some sense that something momentous had occurred. We’ve finally produced a quantum computer
+that can outperform a classical computer! In fact, “outperform” is a bit of a misnomer here; since
+the task completed by the quantum computer would take a state-of-the-art supercomputer about
+10,000 years, it’s more accurate to say that a classical computer could never effectively match the
+quantum compute
+
+
+![photo](./Iman/2021-07-11.png)
 
 This program reads the community cards and each player's hand. Then, the program identifies each hand and rank them according to the Texas Hold'em rules.
+
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 ## How to run
 
