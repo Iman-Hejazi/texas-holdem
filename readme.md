@@ -27,9 +27,16 @@ quantum compute
 
 
 
-![](./Iman/Random circuit code.ipynb)
 
 <a href="./Iman/Random circuit code.ipynb/" target="_blank"> Python code </a>
+
+
+
+<object data="./Iman/2007.07872.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./Iman/2007.07872.pdf">
+        <p> Please download the PDF to view it: <a href="./Iman/2007.07872.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 ![photo](./Iman/2021-07-11.png)
