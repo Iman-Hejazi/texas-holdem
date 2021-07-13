@@ -15,6 +15,17 @@ the task completed by the quantum computer would take a state-of-the-art superco
 quantum compute
 
 
+![](./Iman/giphy.gif)
+
+<img src="./Iman/giphy.gif" width="100" height="100" />
+
+![As shown here](./Iman/2021-07-11.png "Desktop")
+
+|Name|Name|
+|----|-----|
+|<img src="./Iman/2021-07-11.png" width="100" height="100" />|<img src="./Iman/2021-07-11.png" width="100" height="100" />|
+
+
 ![photo](./Iman/2021-07-11.png)
 
 This program reads the community cards and each player's hand. Then, the program identifies each hand and rank them according to the Texas Hold'em rules.
