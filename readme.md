@@ -26,6 +26,12 @@ quantum compute
 |<img src="./Iman/2021-07-11.png" width="100" height="100" />|<img src="./Iman/2021-07-11.png" width="100" height="100" />|
 
 
+
+![](./Iman/Random circuit code.ipynb)
+
+<a href="./Iman/Random circuit code.ipynb/" target="_blank"> Python code </a>
+
+
 ![photo](./Iman/2021-07-11.png)
 
 This program reads the community cards and each player's hand. Then, the program identifies each hand and rank them according to the Texas Hold'em rules.
